@@ -2,7 +2,7 @@ ViewTransitionManager
 =====================
 
 Manager for creating animations between view controllers.
-
+This example creates a crossDisolve like transition. For custom animations, override animateTransition method.
 Usage
 
 1)
