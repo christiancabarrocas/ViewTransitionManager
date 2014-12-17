@@ -1,9 +1,7 @@
 //
 //  ViewTransitionManager.m
-//  Shootr
 //
 //  Created by Christian Cabarrocas on 16/12/14.
-//  Copyright (c) 2014 Fav24. All rights reserved.
 //
 
 #import "ViewTransitionManager.h"
@@ -14,7 +12,6 @@
 -(id)init {
     self = [super init];
     if (self != nil) {
-        //self.member = [[ClassB alloc] init];
     }
     return self;
 }
